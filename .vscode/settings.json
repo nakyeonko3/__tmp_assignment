@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "cstdarg": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stdio.h": "c",
+        "json.h": "c"
+    }
+}
