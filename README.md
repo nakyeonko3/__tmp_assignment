@@ -5,11 +5,9 @@
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install flask
-pip install flask-cors
+python -m pip install -r requirements.txt
 python server.py
 ```
-
 
 ### 아래 명령어로 테스트 하면 됩니다
 
